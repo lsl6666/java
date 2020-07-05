@@ -1,0 +1,1 @@
+packageSearchIndex = [{"m":"网络五子棋","l":"gobang"},{"l":"所有程序包","url":"allpackages-index.html"}]
